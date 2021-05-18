@@ -2429,7 +2429,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 50%;
-  background-color: #fd4d4d;
+  background-color: #8d32c8;
 }
 
 .text-block-21 {
@@ -2639,7 +2639,7 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #fd4d4d;
+  background-color: #8d32c8;
   -webkit-transition: background-color 300ms ease-in-out;
   transition: background-color 300ms ease-in-out;
   font-size: 14px;
@@ -2649,7 +2649,7 @@ a {
 }
 
 .copy-btn:hover {
-  background-color: #ff7070;
+  background-color: #9841d0;
 }
 
 @media screen and (max-width: 991px) {
